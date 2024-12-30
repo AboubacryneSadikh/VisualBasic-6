@@ -1,0 +1,40 @@
+C:\Users\Lenovo T470s\source\repos\exo4\exo4\bin\Debug\net8.0-windows\exo4.exe
+C:\Users\Lenovo T470s\source\repos\exo4\exo4\bin\Debug\net8.0-windows\exo4.deps.json
+C:\Users\Lenovo T470s\source\repos\exo4\exo4\bin\Debug\net8.0-windows\exo4.runtimeconfig.json
+C:\Users\Lenovo T470s\source\repos\exo4\exo4\bin\Debug\net8.0-windows\exo4.dll
+C:\Users\Lenovo T470s\source\repos\exo4\exo4\bin\Debug\net8.0-windows\exo4.pdb
+C:\Users\Lenovo T470s\source\repos\exo4\exo4\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\Lenovo T470s\source\repos\exo4\exo4\bin\Debug\net8.0-windows\MySql.Data.xml
+C:\Users\Lenovo T470s\source\repos\exo4\exo4\obj\Debug\net8.0-windows\exo4.vbproj.AssemblyReference.cache
+C:\Users\Lenovo T470s\source\repos\exo4\exo4\obj\Debug\net8.0-windows\exo4.Form1.resources
+C:\Users\Lenovo T470s\source\repos\exo4\exo4\obj\Debug\net8.0-windows\exo4.vbproj.GenerateResource.cache
+C:\Users\Lenovo T470s\source\repos\exo4\exo4\obj\Debug\net8.0-windows\exo4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo T470s\source\repos\exo4\exo4\obj\Debug\net8.0-windows\exo4.AssemblyInfoInputs.cache
+C:\Users\Lenovo T470s\source\repos\exo4\exo4\obj\Debug\net8.0-windows\exo4.AssemblyInfo.vb
+C:\Users\Lenovo T470s\source\repos\exo4\exo4\obj\Debug\net8.0-windows\exo4.vbproj.CoreCompileInputs.cache
+C:\Users\Lenovo T470s\source\repos\exo4\exo4\obj\Debug\net8.0-windows\exo4.vbproj.Up2Date
+C:\Users\Lenovo T470s\source\repos\exo4\exo4\obj\Debug\net8.0-windows\exo4.dll
+C:\Users\Lenovo T470s\source\repos\exo4\exo4\obj\Debug\net8.0-windows\refint\exo4.dll
+C:\Users\Lenovo T470s\source\repos\exo4\exo4\obj\Debug\net8.0-windows\exo4.pdb
+C:\Users\Lenovo T470s\source\repos\exo4\exo4\obj\Debug\net8.0-windows\exo4.genruntimeconfig.cache
+C:\Users\Lenovo T470s\source\repos\exo4\exo4\obj\Debug\net8.0-windows\ref\exo4.dll
+C:\exo4\exo4\bin\Debug\net8.0-windows\exo4.exe
+C:\exo4\exo4\bin\Debug\net8.0-windows\exo4.deps.json
+C:\exo4\exo4\bin\Debug\net8.0-windows\exo4.runtimeconfig.json
+C:\exo4\exo4\bin\Debug\net8.0-windows\exo4.dll
+C:\exo4\exo4\bin\Debug\net8.0-windows\exo4.pdb
+C:\exo4\exo4\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\exo4\exo4\bin\Debug\net8.0-windows\MySql.Data.xml
+C:\exo4\exo4\obj\Debug\net8.0-windows\exo4.vbproj.AssemblyReference.cache
+C:\exo4\exo4\obj\Debug\net8.0-windows\exo4.Form1.resources
+C:\exo4\exo4\obj\Debug\net8.0-windows\exo4.vbproj.GenerateResource.cache
+C:\exo4\exo4\obj\Debug\net8.0-windows\exo4.GeneratedMSBuildEditorConfig.editorconfig
+C:\exo4\exo4\obj\Debug\net8.0-windows\exo4.AssemblyInfoInputs.cache
+C:\exo4\exo4\obj\Debug\net8.0-windows\exo4.AssemblyInfo.vb
+C:\exo4\exo4\obj\Debug\net8.0-windows\exo4.vbproj.CoreCompileInputs.cache
+C:\exo4\exo4\obj\Debug\net8.0-windows\exo4.vbproj.Up2Date
+C:\exo4\exo4\obj\Debug\net8.0-windows\exo4.dll
+C:\exo4\exo4\obj\Debug\net8.0-windows\refint\exo4.dll
+C:\exo4\exo4\obj\Debug\net8.0-windows\exo4.pdb
+C:\exo4\exo4\obj\Debug\net8.0-windows\exo4.genruntimeconfig.cache
+C:\exo4\exo4\obj\Debug\net8.0-windows\ref\exo4.dll
